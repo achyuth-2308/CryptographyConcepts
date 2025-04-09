@@ -8,12 +8,12 @@ Each algorithm comes with its own set of input/output examples, implementation l
 
 ## 🧠 Table of Contents
 
-- [Categories of Ciphers](#categories-of-ciphers)
+- [Categories of Ciphers]
   - [1. Monoalphabetic Substitution](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Mono-Alphabetic%20Substitution%20Ciphers)
-  - [2. Polyalphabetic Substitution](#2-polyalphabetic-substitution)
-  - [3. Polygraphic Substitution](#3-polygraphic-substitution)
+  - [2. Polyalphabetic Substitution](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Poly-Alphabetic%20Substitution%20Ciphers)
+  - [3. Polygraphic Substitution](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Polygraphic%20Substitution%20Ciphers)
   - [4. Transpositional Ciphers](#4-transpositional-ciphers)
-  - [5. Utility Algorithms](#5-utility-algorithms)
+  - [5. Utility Algorithms](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Transpositional%20Ciphers)
 - [🔎 How to Run](#how-to-run)
 - [📸 Sample Output Screenshots](#sample-output-screenshots)
 - [📚 References](#references)
