@@ -8,7 +8,7 @@ Each algorithm comes with its own set of input/output examples, implementation l
 
 ## 🧠 Table of Contents
 
-- [Categories of Ciphers]
+- Categories of Ciphers
   - [1. Monoalphabetic Substitution](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Mono-Alphabetic%20Substitution%20Ciphers)
   - [2. Polyalphabetic Substitution](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Poly-Alphabetic%20Substitution%20Ciphers)
   - [3. Polygraphic Substitution](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Polygraphic%20Substitution%20Ciphers)
