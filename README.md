@@ -1,6 +1,6 @@
 # 🔐 Cryptography Concepts | Semester 6
 
-Built as part of our **CS3002 - Cryptography Concepts** course, this repository includes fully functional **C implementations** of 15 classic cryptographic algorithms across different categories — from simple monoalphabetic ciphers to complex transpositional systems.
+Built as part of our **CS3002 - Cryptography Concepts** course, this repository includes fully functional **C (Programmming Language) implementations** of 15 classic cryptographic algorithms across different categories — from simple monoalphabetic ciphers to complex transpositional systems.
 
 Each algorithm comes with its own set of input/output examples, implementation logic, and is grouped for better understanding. Designed to be **technically informative**, **well-documented**, and **student-friendly**!
 
