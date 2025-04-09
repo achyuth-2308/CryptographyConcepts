@@ -16,7 +16,6 @@ Each algorithm comes with its own set of input/output examples, implementation l
   - [5. Utility Algorithms](https://github.com/achyuth-2308/CryptographyConcepts/tree/main/Transpositional%20Ciphers)
 - [🔎 How to Run](#how-to-run)
 - [📸 Sample Output Screenshots](#sample-output-screenshots)
-- [📚 References](#references)
 
 ---
 
